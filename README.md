@@ -4,3 +4,8 @@
 * Annisa Arthanty (231031112)
 * Ronianto Rombe Tasik (231031098)
 * A.Alfurqan Pallawagau (231031105)
+
+# Deskripsi :
+jadi projek kelompok kami yaitu tentang lirik lagu sesuai dengan mood yang ingin didengarkan. 
+dimana ada empat pilihan mood dan diantara empat mood tersebut terdapat lima pilihan lagu yang sesuai dengan suasana dari mood tersebut.
+lagu-lagu yang kami pilih yaitu lagu-lagu dari taylor swift.
