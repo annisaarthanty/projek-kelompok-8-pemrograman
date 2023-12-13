@@ -7,5 +7,6 @@
 
 # Deskripsi :
 jadi projek kelompok kami yaitu tentang lirik lagu sesuai dengan mood yang ingin didengarkan. 
-dimana ada empat pilihan mood dan diantara empat mood tersebut terdapat lima pilihan lagu yang sesuai dengan suasana dari mood tersebut.
-lagu-lagu yang kami pilih yaitu lagu-lagu dari taylor swift.
+dimana ada empat pilihan mood yaitu senang, sedih, marah, dan stress.
+ditiap masing-masing mood tersebut terdapat lima pilihan lagu yang sesuai dengan suasana dari mood tersebut.
+Dan lagu-lagu yang kami pilih semuanya lagu-lagu dari taylor swift.
